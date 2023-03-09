@@ -8,9 +8,9 @@
 
 ### Laboratoria
 
-- [Lab 01 - Paradygmaty](#laboratorium-1)
-- [Lab 02 - Ruby](#laboratorium-1)
-- [Lab 03 - Ruby]()
+- [Laboratorium 01 - Paradygmaty](#laboratorium-1)
+- [Laboratorium 02 - Ruby](#laboratorium-1)
+- [Laboratorium 03 - Ruby]()
 
 ### Materiały
 

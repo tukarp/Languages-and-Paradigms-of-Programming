@@ -4,8 +4,9 @@
 
 ### Wykład
 
-- [Wykład](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Wyk%C5%82ad%20-%20J%C4%99zyki%20i%20Paradygmaty%20Programowania.pdf)
+- [Wykład](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%20-%20J%C4%99zyki%20i%20Paradygmaty%20Programowania.pdf)
 
 ### Laboratoria
 
-- [Lab 01]()
+- [Lab 01](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Lab%2001)
+- [Lab 02]()

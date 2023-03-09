@@ -8,5 +8,5 @@
 
 ### Laboratoria
 
-- [Lab 01](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Lab%2001)
+- [Lab 01](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2001)
 - [Lab 02]()

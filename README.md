@@ -66,6 +66,32 @@ Napisz program używający podstawowych operacji na tablicach.
 
 Napisz program korzystający z tablic asocjacyjnych.
 
+### Laboratorium 3
+
+### Laboratorium 4
+
+### Laboratorium 5
+
+### Laboratorium 6
+
+### Laboratorium 7
+
+### Laboratorium 8
+
+### Laboratorium 9
+
+### Laboratorium 10
+
+### Laboratorium 11
+
+### Laboratorium 12
+
+### Laboratorium 13
+
+### Laboratorium 14
+
+### Laboratorium 15
+
 ## Rozwiązania
 
 ### Laboratorium 1
@@ -78,9 +104,35 @@ Napisz program korzystający z tablic asocjacyjnych.
 
 ### Laboratorium 2
 
-- [Zadanie 1]()
-- [Zadanie 2]()
-- [Zadanie 3]()
-- [Zadanie 4]()
-- [Zadanie 5]()
-- [Zadanie 6]()
+- [Zadanie 1](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2002/Zadanie%201.rb)
+- [Zadanie 2](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2002/Zadanie%202.rb)
+- [Zadanie 3](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2002/Zadanie%203.rb)
+- [Zadanie 4](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2002/Zadanie%204.rb)
+- [Zadanie 5](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2002/Zadanie%205.rb)
+- [Zadanie 6](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2002/Zadanie%206.rb)
+
+### Laboratorium 3
+
+### Laboratorium 4
+
+### Laboratorium 5
+
+### Laboratorium 6
+
+### Laboratorium 7
+
+### Laboratorium 8
+
+### Laboratorium 9
+
+### Laboratorium 10
+
+### Laboratorium 11
+
+### Laboratorium 12
+
+### Laboratorium 13
+
+### Laboratorium 14
+
+### Laboratorium 15

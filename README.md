@@ -12,6 +12,10 @@
 - [Lab 02 - Ruby](#laboratorium-1)
 - [Lab 03 - Ruby]()
 
+### Materiały
+
+- [Materiały](http://kft.umcs.lublin.pl/mgozdz/)
+
 ## Treści zadań
 
 ## Laboratorium 1

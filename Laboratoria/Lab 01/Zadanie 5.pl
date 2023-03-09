@@ -1,5 +1,5 @@
-ojciec(jan, jerzy).
-ojciec(jerzy, janusz).
-ojciec(jerzy, józef).
+ojciec(jan, tomasz).
+ojciec(tomasz, mikołaj).
+ojciec(tomasz, jakub).
 dziadek(X, Z) :- ojciec(X, Y), ojciec(Y, Z).
-?- dziadek(X, janusz).
+? - dziadek(X, mikołaj).

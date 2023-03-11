@@ -44,7 +44,7 @@
 
 ### Zadanie 1
 
-Napisz w imperatywnym języku Fortran 77.
+Napisz program liczący silnie w języku Fortran 77.
 
 [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2001/Zadanie%201.f)
 
@@ -62,7 +62,7 @@ Napisz program liczący sumę oraz silnię w języku Scheme.
 
 ### Zadanie 4
 
-Napisz program obliczający silnię w języku C.
+Napisz program liczący silnię w języku C.
 
 [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2001/Zadanie%204.c)
 

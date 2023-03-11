@@ -2,10 +2,6 @@
 
 ## Spis Treści
 
-### Wykład
-
-- [Wykład](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%20-%20J%C4%99zyki%20i%20Paradygmaty%20Programowania.pdf)
-
 ### Laboratoria
 
 - [Laboratorium 01 - Paradygmaty](#laboratorium-1)
@@ -24,8 +20,6 @@
 - [Laboratorium 14 - Prolog](#laboratorium-14)
 - [Laboratorium 15 - Kolokwium z Języka Prolog](#laboratorium-15)
 
-
-
 ### Rozwiązania
 
 - [Laboratorium 01 - Paradygmaty](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2001)
@@ -43,10 +37,6 @@
 - [Laboratorium 13 - Prolog](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2013)
 - [Laboratorium 14 - Prolog](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2014)
 - [Laboratorium 15 - Kolokwium z Języka Prolog](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2015)
-
-### Materiały
-
-- [Materiały](http://kft.umcs.lublin.pl/mgozdz/)
 
 ## Treści zadań
 

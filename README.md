@@ -110,7 +110,53 @@ Napisz program korzystający z tablic asocjacyjnych.
 
 [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2002/Zadanie%206.rb)
 
-### Laboratorium 3
+## Laboratorium 3
+
+### Zadanie 1
+
+Napisz program wykorzystujący pętle (for, while, until) i instrukcje warunkowe (if, unless, case).
+
+[Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2003/Zadanie%201.rb)
+
+### Zadanie 2
+
+Napisz program sprawdzający czy zmienne w języku Ruby mają zakres widoczności ustalany statycznie, czy dynamicznie.
+
+[Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2003/Zadanie%202.rb)
+
+### Zadanie 3
+
+Napisz program symulujący dzienniczek ucznia. Program powinien potrafić obliczyć średnią z danego przedmiotu na podstawie ocen.
+
+[Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2003/Zadanie%203.rb)
+
+### Zadanie 4
+
+Napisz program rozwiązujący równanie kwadratowe - a * x ^ 2 + b * x + c = 0
+
+[Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2003/Zadanie%204.rb)
+
+### Zadanie 5
+
+Napisz program liczący silnię z podanej liczby, podawanej jako argument wywołania programu.
+
+[Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2003/Zadanie%205.rb)
+
+### Zadanie 6
+
+Napisz klasę osoba z następującymi metodami:
+- initialize - obowiązkowa metoda tworząca nowy obiekt tej klasy,
+- imie - wyświetla imię,
+- nazwisko - wyświetla nazwisko,
+- to_s - metoda "to_string" wyświetla imię i nazwisko.
+
+[Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2003/Zadanie%206.rb)
+
+### Zadanie 7
+
+Zaimplementuj drzewo genealogiczne po męskiej linii z możliwością znalezienia dziadka dla podanego wnuka.
+
+[Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2003/Zadanie%207.rb)
 
 ### Laboratorium 4
 

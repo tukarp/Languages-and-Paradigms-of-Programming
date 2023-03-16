@@ -38,7 +38,7 @@
 - [Laboratorium 14 - Prolog](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2014)
 - [Laboratorium 15 - Kolokwium z Języka Prolog](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2015)
 
-## Treści zadań
+# Treści zadań
 
 ## Laboratorium 1
 

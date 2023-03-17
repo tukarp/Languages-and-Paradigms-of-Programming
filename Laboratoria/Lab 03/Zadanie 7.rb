@@ -14,6 +14,7 @@ class Genealogical_Tree
   end
 end
 
+# main
 # Utworzenie drzewa genealogicznego
 genealogical_tree = Genealogical_Tree.new()
 

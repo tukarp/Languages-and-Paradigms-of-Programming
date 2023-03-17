@@ -1,9 +1,14 @@
 # Sprawdzenie zakresu widoczności zmiennej
-if true
-  test = "I'm testing here"
-  puts("In if statement:")
+def test_function()
+  if true
+    test = "I'm testing here"
+    puts("In if statement:")
+    puts("#{test}")
+  end
+
+  puts("After if statement:")
   puts("#{test}")
 end
 
-puts("After if statement:")
-puts("#{test}")
+# main
+test_function()

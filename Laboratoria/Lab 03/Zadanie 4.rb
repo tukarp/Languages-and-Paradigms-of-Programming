@@ -1,3 +1,4 @@
+# Rozwiązanie równania kwadratowego
 def quadratic_equation_result(a, b, c)
   # a * x ^ 2 + b * x + c = 0
   
@@ -21,6 +22,7 @@ def quadratic_equation_result(a, b, c)
   end
 end
 
+# main
 a = 1
 b = -5
 c = -6

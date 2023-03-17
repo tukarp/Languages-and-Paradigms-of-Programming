@@ -15,6 +15,7 @@ class Person
   end
 end
 
+# main
 # Utworzenie nowej osoby
 person = Person.new("Jan", "Kowalski")
 

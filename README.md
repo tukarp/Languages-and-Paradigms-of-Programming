@@ -1,4 +1,4 @@
-# Languages-and-Paradigms-of-Programming
+# Języki i Paradygmaty Programowania
 
 ## Spis Treści
 

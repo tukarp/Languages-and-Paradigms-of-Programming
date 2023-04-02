@@ -20,24 +20,6 @@
 - [Laboratorium 14 - Prolog](#laboratorium-14)
 - [Laboratorium 15 - Kolokwium z Języka Prolog](#laboratorium-15)
 
-### Rozwiązania
-
-- [Laboratorium 01 - Paradygmaty](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2001)
-- [Laboratorium 02 - Ruby](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2002)
-- [Laboratorium 03 - Ruby](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2003)
-- [Laboratorium 04 - Kolokwium z Języka Ruby](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2004)
-- [Laboratorium 05 - Automaty](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2005)
-- [Laboratorium 06 - Automaty](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2006)
-- [Laboratorium 07 - Lex i Yacc](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2007)
-- [Laboratorium 08 - Gramatyki, AZS](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2008)
-- [Laboratorium 09 - Dane i Zmienne](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2009)
-- [Laboratorium 10 - Haskell](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2010)
-- [Laboratorium 11 - Haskell](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2011)
-- [Laboratorium 12 - Kolokwium z Języka Haskell](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2012)
-- [Laboratorium 13 - Prolog](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2013)
-- [Laboratorium 14 - Prolog](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2014)
-- [Laboratorium 15 - Kolokwium z Języka Prolog](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2015)
-
 # Treści zadań
 
 ## Laboratorium 1
@@ -171,51 +153,6 @@ wykonywałby się przez 2 godz. 20 minut, a został uruchomiony w piątek o
 Rubym, który wyznaczałby chwilę zakończenia zadanego działania.
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2004/Kolokwium.rb)
-
-### Laboratorium 5
-
-### Laboratorium 6
-
-### Laboratorium 7
-
-### Laboratorium 8
-
-### Laboratorium 9
-
-### Laboratorium 10
-
-### Laboratorium 11
-
-### Laboratorium 12
-
-### Laboratorium 13
-
-### Laboratorium 14
-
-### Laboratorium 15
-
-## Rozwiązania
-
-### Laboratorium 1
-
-- [Zadanie 1](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2001/Zadanie%201.f)
-- [Zadanie 2](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2001/Zadanie%202.java)
-- [Zadanie 3](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2001/Zadanie%203.scm)
-- [Zadanie 4](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2001/Zadanie%204.c)
-- [Zadanie 5](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2001/Zadanie%205.pl)
-
-### Laboratorium 2
-
-- [Zadanie 1](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2002/Zadanie%201.rb)
-- [Zadanie 2](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2002/Zadanie%202.rb)
-- [Zadanie 3](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2002/Zadanie%203.rb)
-- [Zadanie 4](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2002/Zadanie%204.rb)
-- [Zadanie 5](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2002/Zadanie%205.rb)
-- [Zadanie 6](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2002/Zadanie%206.rb)
-
-### Laboratorium 3
-
-### Laboratorium 4
 
 ### Laboratorium 5
 

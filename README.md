@@ -242,7 +242,7 @@ Napisz program zliczający liczbę wierszy.
 
 Napisz program symulujący kalkulator działający w notacji polskiej.
 
-### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2007/%C4%86wiczenie%203.lex)
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2007/%C4%86wiczenie%203.yacc)
 
 ### Laboratorium 8
 

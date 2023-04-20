@@ -24,6 +24,8 @@
 
 ## Laboratorium 1
 
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2001)
+
 ### Zadanie 1
 
 Napisz program liczący silnie w języku Fortran 77.
@@ -55,6 +57,8 @@ Napisz program rozwiązujący problem logiczny w języku Prolog.
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2001/Zadanie%205.pl)
 
 ## Laboratorium 2
+
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2002)
 
 ### Zadanie 1
 
@@ -93,6 +97,8 @@ Napisz program korzystający z tablic asocjacyjnych.
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2002/Zadanie%206.rb)
 
 ## Laboratorium 3
+
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2003)
 
 ### Zadanie 1
 
@@ -142,6 +148,8 @@ Zaimplementuj drzewo genealogiczne po męskiej linii z możliwością znalezieni
 
 ### Laboratorium 4
 
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2004)
+
 ### Kolokwium z języka Ruby
 
 Załóżmy, że macie dostępny czas na CPU zdalnej maszyny w dni powszednie
@@ -156,9 +164,85 @@ Rubym, który wyznaczałby chwilę zakończenia zadanego działania.
 
 ### Laboratorium 5
 
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2005)
+
 ### Laboratorium 6
 
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2006)
+
 ### Laboratorium 7
+
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2007)
+
+### Notatki
+
+- ```Lex``` - skaner potrafiącym analizować składnię języka (lexical analyzer generator),
+- ```Yacc``` (Yet Another Compiler Compiler) - kompilator potrafiący budować z plików lex'a nowe
+programy (parser generator).
+- W chwili obecnej Lex jest zastąpiony przez Flex, natomiast Yacc przez Bison. Skrypty dla obu można łączyć z kodem w C.
+
+### Kompilacja
+
+```lex Zadanie.lex```
+
+```cc lex.yy.c -o Zadanie.x -lfl```
+
+```./Zadanie.x```
+
+### Zadanie 1
+
+Napisz program wypisujący ```Start command received``` lub ```Stop command received``` w zależności od wpisanej przez użytkownika komendy.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2007/Zadanie%201.lex)
+
+### Zadanie 2
+
+Napisz program wypisujący czy podany napis jest słowem czy liczbą.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2007/Zadanie%202.lex)
+
+### Zadanie 3
+
+Napisz program dodający dwie liczby w systemie rzymskim.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2007/Zadanie%203.lex)
+
+### Zadanie 4
+
+Napisz program symulujący kalkulator z operacjami ```+``` i ```-```.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2007/Zadanie%204.yacc)
+
+### Zadanie 5
+
+Napisz program symulujacy kalkulator z operacjami:
+
+- ```+```,
+- ```-```,
+- ```*```,
+- ```/```,
+- rozpoznawania ```()```,
+- rozpoznawania liczb ujemnych.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2007/Zadanie%205.yacc)
+
+### Ćwiczenie 1
+
+Napisz program zliczający liczbę słów.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2007/%C4%86wiczenie%201.lex)
+
+### Ćwiczenie 2
+
+Napisz program zliczający liczbę wierszy.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2007/%C4%86wiczenie%202.lex)
+
+### Ćwiczenie 3
+
+Napisz program symulujący kalkulator działający w notacji polskiej.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2007/%C4%86wiczenie%203.lex)
 
 ### Laboratorium 8
 

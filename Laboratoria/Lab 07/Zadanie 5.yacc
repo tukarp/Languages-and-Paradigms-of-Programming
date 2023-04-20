@@ -30,7 +30,7 @@ expression:	expression '+' expression	{$$ = $1 + $3;
 						                    printf("Recognized '/' expression\n");
 						                }
 	|	    '-' expression %prec UMINUS	{$$ = - $2;
-						                printf ("Recognized negation\n");
+						                printf("Recognized negation\n");
 						                }
 	|	    '(' expression ')'		    {$$ = $2;
 						                printf("Recognized parenthesized expression\n");

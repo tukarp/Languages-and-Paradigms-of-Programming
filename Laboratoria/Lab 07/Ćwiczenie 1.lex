@@ -6,9 +6,11 @@
 %%
 
 int main(void) {
-    int word_count;
+    int word_counter;
 
-    word_count = yylex();
+    word_counter = yylex();
 
-    printf("\nCounted %d words\n", word_count);
+    printf("\nCounted %d words\n", word_counter);
+
+    return 0;
 }

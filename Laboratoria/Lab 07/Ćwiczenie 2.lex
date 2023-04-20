@@ -1,14 +1,16 @@
 %%
     int line_counter = 0;
 
-[ \t]+  total += 1;
-[\n]+      return total + 1;
+[\n]+   line_counter += 1;
+stop    return line_counter;
 %%
 
 int main(void) {
-    int word_count;
+    int line_counter;
 
-    word_count = yylex();
+    line_counter = yylex();
 
-    printf("\nCounted %d words\n", word_count);
+    printf("\nCounted %d lines\n", line_counter);
+
+    return 0;
 }

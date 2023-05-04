@@ -28,31 +28,31 @@
 
 ### Zadanie 1
 
-Napisz program liczący silnie w języku Fortran 77.
+Napisz program liczący silnie w języku ```Fortran 77```.
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2001/Zadanie%201.f)
 
 ### Zadanie 2
 
-Napisz program liczący silnie w języku Java.
+Napisz program liczący silnie w języku ```Java```.
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2001/Zadanie%202.java)
 
 ### Zadanie 3
 
-Napisz program liczący sumę oraz silnię w języku Scheme.
+Napisz program liczący sumę oraz silnię w języku ```Scheme```.
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2001/Zadanie%203.scm)
 
 ### Zadanie 4
 
-Napisz program liczący silnię w języku C.
+Napisz program liczący silnię w języku ```C```.
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2001/Zadanie%204.c)
 
 ### Zadanie 5
 
-Napisz program rozwiązujący problem logiczny w języku Prolog.
+Napisz program rozwiązujący problem logiczny w języku ```Prolog```.
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2001/Zadanie%205.pl)
 
@@ -102,13 +102,13 @@ Napisz program korzystający z tablic asocjacyjnych.
 
 ### Zadanie 1
 
-Napisz program wykorzystujący pętle (for, while, until) i instrukcje warunkowe (if, unless, case).
+Napisz program wykorzystujący pętle (```for```, ```while```, ```until```) i instrukcje warunkowe (```if```, ```unless```, ```case```).
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2003/Zadanie%201.rb)
 
 ### Zadanie 2
 
-Napisz program sprawdzający czy zmienne w języku Ruby mają zakres widoczności ustalany statycznie, czy dynamicznie.
+Napisz program sprawdzający czy zmienne w języku ```Ruby``` mają zakres widoczności ustalany statycznie, czy dynamicznie.
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2003/Zadanie%202.rb)
 
@@ -120,7 +120,7 @@ Napisz program symulujący dzienniczek ucznia. Program powinien potrafić oblicz
 
 ### Zadanie 4
 
-Napisz program rozwiązujący równanie kwadratowe - a * x ^ 2 + b * x + c = 0
+Napisz program rozwiązujący równanie kwadratowe - $a * x ^ 2 + b * x + c = 0$
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2003/Zadanie%204.rb)
 
@@ -133,10 +133,10 @@ Napisz program liczący silnię z podanej liczby, podawanej jako argument wywoł
 ### Zadanie 6
 
 Napisz klasę osoba z następującymi metodami:
-- initialize - obowiązkowa metoda tworząca nowy obiekt tej klasy,
-- imie - wyświetla imię,
-- nazwisko - wyświetla nazwisko,
-- to_s - metoda "to_string" wyświetla imię i nazwisko.
+- ```initialize``` - obowiązkowa metoda tworząca nowy obiekt tej klasy,
+- ```imie``` - wyświetla imię,
+- ```nazwisko``` - wyświetla nazwisko,
+- ```to_s``` - metoda "to_string" wyświetla imię i nazwisko.
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2003/Zadanie%206.rb)
 
@@ -150,7 +150,7 @@ Zaimplementuj drzewo genealogiczne po męskiej linii z możliwością znalezieni
 
 ### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2004)
 
-### Kolokwium z języka Ruby
+### Kolokwium z języka ```Ruby```
 
 Załóżmy, że macie dostępny czas na CPU zdalnej maszyny w dni powszednie
 między 10:00 a 18:00. Zadanie, które nie zostanie zakończone do momentu
@@ -281,6 +281,62 @@ Napisz program symulujący kalkulator działający w notacji polskiej.
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2007/%C4%86wiczenie%203.yacc)
 
 ### Laboratorium 8
+
+### Zadanie 1
+
+Rozwiąż ```GBK```.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008/Laboratorium%2008.md)
+
+### Zadanie 2
+
+Rozwiąż wyprowadzenie ```automatu```.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008/Laboratorium%2008.md)
+
+### Zadanie 3
+
+Rozwiąż wyprowadzenie ```automatu```.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008/Laboratorium%2008.md)
+
+### Zadanie 4
+
+Rozwiąż wyprowadzenie ```automatu```.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008/Laboratorium%2008.md)
+
+### Zadanie 5
+
+Rozwiąż wyprowadzenie ```automatu```.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008/Laboratorium%2008.md)
+
+### Zadanie 6
+
+Rozwiąż ```drzewo wyprowadzeń```.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008/Laboratorium%2008.md)
+
+### Zadanie 7
+
+Rozwiąż ```GBK```.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008/Laboratorium%2008.md)
+
+### Zadanie 8
+
+Rozwiąż wyprowadzenie ```automatu ze stosem```.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008/Laboratorium%2008.md)
+
+### Zadanie 9
+
+Rozwiąż wyprowadzenie ```automatu ze stosem```.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008/Laboratorium%2008.md)
+
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008/Laboratorium%2008.md)
 
 ### Laboratorium 9
 

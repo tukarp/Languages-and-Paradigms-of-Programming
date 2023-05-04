@@ -168,37 +168,37 @@ Rubym, który wyznaczałby chwilę zakończenia zadanego działania.
 
 Alfabet 2 symboli - ```A```, ```B```.
 
-### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Laboratorium%2005.md)
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Laboratorium%2005.md)
 
 ### Zadanie 2
 
 Podać ```DAS``` który akceptuję ciągi kończące się na 2 zerach.
 
-### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Laboratorium%2005.md)
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Laboratorium%2005.md)
 
 ### Zadanie 3
 
 Podać ```DAS``` który akceptujący ciągi z 3 zerami po sobie.
 
-### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Laboratorium%2005.md)
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Laboratorium%2005.md)
 
 ### Zadanie 4
 
 Podać ```DAS``` który akjceptuję ciąg ```011```.
 
-### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Laboratorium%2005.md)
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Laboratorium%2005.md)
 
 ### Zadanie 5
 
 Podać ```DAS``` który akjceptuję ciąg w którzym przed-przed ostatnim symbolem jest ```1``` (```1**```).
 
-### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Laboratorium%2005.md)
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Laboratorium%2005.md)
 
 ### Zadanie 6
 
 Zamiana ```NAS``` w ```DAS```.
 
-### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Laboratorium%2005.md)
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Laboratorium%2005.md)
 
 ### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2005)
 

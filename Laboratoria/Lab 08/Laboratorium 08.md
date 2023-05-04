@@ -22,11 +22,11 @@
 
 Rozwiąż GBK.
 
-{$0^n$, $n>=1$}, &nbsp;&nbsp;&nbsp; $S$ → 01
+{ $0^n$, $n>=1$ }, &nbsp;&nbsp;&nbsp; $S$ → 01
 
-$T$ = {$0$, $1$}, &nbsp;&nbsp;&nbsp; $S$ → 0S1
+$T$ = { $0$, $1$ }, &nbsp;&nbsp;&nbsp; $S$ → 0S1
 
-$V$ = {$S$}
+$V$ = { $S$ }
 
 ### Zadanie 2
 
@@ -143,7 +143,7 @@ Rozwiąż wyprowadzenie automatu ze stosem.
 
 Na stosie może być tylko $Z_0$, $X$
 
-P = ({$q$, $p$}, {$0$, $1$}, {$Z_0$, $X$}, $δ$, $q$, $Z_0$, {$p$})
+P = ({ $q$, $p$ }, { $0$ , $1$ }, { $Z_0$, $X$ }, $δ$ , $q$ , $Z_0$ , { $p$ })
 
 $δ$($q$, $0$, $Z_0$) = {($q$, $XZ_0$)}
 
@@ -185,7 +185,7 @@ Rozwiąż wyprowadzenie automatu ze stosem.
 
 Na stosie może być tylko $Z_0$, $X$
 
-P = ({$q$, $p$}, {$0$, $1$}, {$Z_0$, $X$}, $δ$, $q$, $Z_0$, {$p$})
+P = ({ $q$, $p$ }, { $0$ , $1$ }, { $Z_0$, $X$ }, $δ$ , $q$ , $Z_0$ , { $p$ })
 
 $δ$($q$, $0$, $Z_0$) = {($q$, $XZ_0$)}
 

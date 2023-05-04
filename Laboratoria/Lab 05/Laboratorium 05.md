@@ -4,7 +4,7 @@
 
 ### Zadanie 1
 
-Alfabet 2 symboli - ```A```, ```B```
+Alfabet 2 symboli - ```A```, ```B```.
 
 Przyjmijmy start w ```LLLC```
 
@@ -22,7 +22,7 @@ Przyjmijmy start w ```LLLC```
 
 ### Zadanie 2
 
-Podać ```DAS``` który akceptuję ciągi kończące się na 2 zerach
+Podać ```DAS``` który akceptuję ciągi kończące się na 2 zerach.
 
 <img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Image 1.jpg">
 
@@ -34,7 +34,7 @@ Podać ```DAS``` który akceptuję ciągi kończące się na 2 zerach
 
 ### Zadanie 3
 
-Podać ```DAS``` który akceptujący ciągi z 3 zerami po sobie
+Podać ```DAS``` który akceptujący ciągi z 3 zerami po sobie.
 
 <img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Image 2.jpg">
 
@@ -47,7 +47,7 @@ Podać ```DAS``` który akceptujący ciągi z 3 zerami po sobie
 
 ### Zadanie 4
 
-Podać ```DAS``` który akjceptuję ciąg ```011```
+Podać ```DAS``` który akjceptuję ciąg ```011```.
 
 <img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Image 3.jpg">
 
@@ -60,7 +60,7 @@ Podać ```DAS``` który akjceptuję ciąg ```011```
 
 ### Zadanie 5
 
-Podać ```DAS``` który akjceptuję ciąg w którzym przed-przed ostatnim symbolem jest ```1``` (```1**```)
+Podać ```DAS``` który akjceptuję ciąg w którzym przed-przed ostatnim symbolem jest ```1``` (```1**```).
 
 <img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Image 4.jpg">
 
@@ -84,7 +84,7 @@ Podać ```DAS``` który akjceptuję ciąg w którzym przed-przed ostatnim symbol
 
 ### Zadanie 6
 
-Zamiana ```NAS``` w ```DAS```
+Zamiana ```NAS``` w ```DAS```.
 
 |            |     $0$    |     $1$     |
 | :--------: | :--------: | :---------: |

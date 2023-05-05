@@ -44,17 +44,17 @@ Na podstawie tabeli przejść po kilka możliwych ścieżkek różnej długości
 
 |   $εNAS$   |     $ε$     |   $a$   |     $b$     |     $c$     |
 | :--------: | :---------: | :-----: | :---------: | :--------:  |
-| $p$        | $\emptyset$ | {$p$}   | {$q$}       | {$r$}       |
-| $p$        | {$p$}       | {$q$}   | {$r$}       | $\emptyset$ |
-| $^*r$      | {$q$}       | {$r$}   | $\emptyset$ | {$p$}       |
+| $p$        | $\emptyset$ | { $p$ } | { $q$ }     | { $r$ }     |
+| $p$        | { $p$ }     | { $q$ } | { $r$ }     | $\emptyset$ |
+| $^*r$      | { $q$ }     | { $r$ } | $\emptyset$ | { $p$ }     |
 
 ### Rozwiązanie:
 
-$e$&nbsp;$domknięcie(p)$ = {$p$}
+$e$ &nbsp; $domknięcie(p)$ = { $p$ }
 
-$e$&nbsp;$domknięcie(q)$ = {$q$,$p$}
+$e$ &nbsp; $domknięcie(q)$ = { $q$ , $p$ }
 
-$e$&nbsp;$domknięcie(r)$ = {$r$,$q$,$p$}
+$e$ &nbsp; $domknięcie(r)$ = { $r$ , $q$ , $p$ }
 
 Ścieżki:
 
@@ -62,26 +62,24 @@ $e$&nbsp;$domknięcie(r)$ = {$r$,$q$,$p$}
     - $c$,
 - Dwuznakowe: 
     - $ac$, $bb$, $ca$, $bc$, $cb$,
-- Trójznakowe:(DOPISZ TROJZNAKOWE)
-    - $ac$, $bb$, $ca$, $bc$, $cb$,
 
 ### Zadanie 5
 
 Na podstawie tabeli wypisz możliwe ścieżki.
 
-|   $εNAS$   |     $ε$     |     $a$     |     $b$     |     $c$     |
-| :--------: | :---------: | :---------: | :---------: | :---------: |
-| $p$        | {$q$, $r$}  | $\emptyset$ | {$q$}       | {$r$}       |
-| $p$        | $\emptyset$ | {$p$}       | {$r$}       | {$p$, $q$}  |
-| $^*r$      | $\emptyset$ | $\emptyset$ | $\emptyset$ | $\emptyset$ |
+|   $εNAS$   |      $ε$      |     $a$     |     $b$     |      $c$      |
+| :--------: | :-----------: | :---------: | :---------: | :-----------: |
+| $p$        | { $q$ , $r$ } | $\emptyset$ | { $q$ }     | { $r$ }       |
+| $p$        | $\emptyset$   | { $p$ }     | { $r$ }     | { $p$ , $q$ } |
+| $^*r$      | $\emptyset$   | $\emptyset$ | $\emptyset$ | $\emptyset$   |
 
 ### Rozwiązanie:
 
-$e$&nbsp;$domknięcie(p)$ = {$p$, $q$ $r$}
+$e$ &nbsp; $domknięcie(p)$ = { $p$ , $q$, $r$ }
 
-$e$&nbsp;$domknięcie(q)$ = {$q$}
+$e$ &nbsp; $domknięcie(q)$ = { $q$ }
 
-$e$&nbsp;$domknięcie(r)$ = {$r$}
+$e$ &nbsp; $domknięcie(r)$ = { $r$ }
 
 Ścieżki:
 
@@ -127,9 +125,9 @@ $R_{11}^{(1)} = 1 + 11^*1$
 
 $11^*1 = (ε + 1 + 11 + 111 + ...)1 = $
 
-$R_{12}^{(1)} = 0 + R_{11}^{1} (R_{11})^{*} R_{12}^{*} = 0 + 11^*0 = 0 + 1^{*}0 = (ε + 1^{*}) 0 = 1^{*} 0$
+$R_{12}^{(1)} = 0 + R_{11}^{1}$ $(R_{11})^{*}$ $R_{12}^{*}$ = $0 + 11^* 0 = 0 + 1^* 0 = (ε + 1^* ) 0 = 1^* 0$
 
-$R_{13}^{1} = 0 + R_{11}^{1} (R_{11}^{1})^{*} R_{13} = 0 + 1^{*} 0$
+$R_{13}^1 = 0 + R_{11}^1 (R_{11}^1)^* R_{13} = 0 + 1^* 0$
 
 $R_{21}^{1} = ...$
 
@@ -167,7 +165,7 @@ Zaprojektuj ```automat``` akceptujący:
 
 Zaprojektuj ```automat``` akceptujący polskie numery telefonów:
 
-- \ $+48[0-9]$\ {$9$\ }
+- \ $+48[0-9]$\ { $9$ \ }
 
 ### Rozwiązanie
 
@@ -177,8 +175,8 @@ Zaprojektuj ```automat``` akceptujący polskie numery telefonów:
 
 Rozwiąż.
 
-$(R + S)^{*} = R^{*} + S^{*}$
+$(R + S)^* = R^* + S^* $
 
 $(R + S)^{*} = ε + (R + S)  + (R + S) (R + S) + (R + S) (R + S) (R + S) + ... $
 
-$R^{*} + S^{*} = (ε + R + RR + RRR + ...) + (ε + S + SS + SSS + ...) $
+$R^* + S^* = (ε + R + RR + RRR + ...) + (ε + S + SS + SSS + ...) $

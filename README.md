@@ -204,7 +204,93 @@ Zamiana ```NAS``` w ```DAS```.
 
 ### Laboratorium 6
 
-### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2006)
+### Zadanie 1
+
+Zaprojektuj ```automat``` akceptujący:
+
+- $abc$,
+- $abd$,
+- $aacd$.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Laboratorium%2006.md)
+
+### Zadanie 2
+
+Zaprojektuj ```automat``` akceptujący:
+
+- $0101$,
+- $101$,
+- $011$.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Laboratorium%2006.md)
+
+### Zadanie 3
+
+Zaprojektuj ```automat``` akceptujący:
+
+- $ab$,
+- $bc$,
+- $ca$.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Laboratorium%2006.md)
+
+### Zadanie 4
+
+Na podstawie tabeli przejść po kilka możliwych ścieżkek różnej długości.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Laboratorium%2006.md)
+
+### Zadanie 5
+
+Na podstawie tabeli wypisz możliwe ścieżki.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Laboratorium%2006.md)
+
+### Zadanie 6
+
+Rozwiąż.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Laboratorium%2006.md)
+
+### Zadanie 7
+
+Zaprojektuj ```automat``` akceptujący:
+
+- $0 1^{*}$
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Laboratorium%2006.md)
+
+### Zadanie 8
+
+Zaprojektuj ```automat``` akceptujący:
+
+- $(0 + 1)01$
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Laboratorium%2006.md)
+
+### Zadanie 9
+
+Zaprojektuj ```automat``` akceptujący:
+
+- $0 0 (0 + 1)^{*}$
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Laboratorium%2006.md)
+
+### Zadanie 10
+
+Zaprojektuj ```automat``` akceptujący polskie numery telefonów:
+
+- \ $+48[0-9]$\ {$9$\ }
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Laboratorium%2006.md)
+
+### Zadanie 11
+
+Rozwiąż.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Laboratorium%2006.md)
+
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Laboratorium%2006.md)
 
 ### Laboratorium 7
 

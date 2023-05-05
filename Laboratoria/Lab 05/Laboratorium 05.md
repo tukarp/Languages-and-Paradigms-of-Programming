@@ -8,6 +8,8 @@ Alfabet 2 symboli - ```A```, ```B```.
 
 Przyjmijmy start w ```LLLC```
 
+### Rozwiązanie:
+
 |            |  ```A```   |  ```B```   |
 | :--------: | :--------: | :--------: |
 | ```LLLC``` | ```RLLC``` | ```LPPC``` |
@@ -24,7 +26,9 @@ Przyjmijmy start w ```LLLC```
 
 Podać ```DAS``` który akceptuję ciągi kończące się na 2 zerach.
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Image 1.jpg">
+### Rozwiązanie:
+
+<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Zadanie 2.jpg">
 
 |            |     $0$    |     $1$    |
 | :--------: | :--------: | :--------: |
@@ -36,7 +40,9 @@ Podać ```DAS``` który akceptuję ciągi kończące się na 2 zerach.
 
 Podać ```DAS``` który akceptujący ciągi z 3 zerami po sobie.
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Image 2.jpg">
+### Rozwiązanie:
+
+<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Zadanie 3.jpg">
 
 |            |     $0$    |     $1$    |
 | :--------: | :--------: | :--------: |
@@ -49,7 +55,9 @@ Podać ```DAS``` który akceptujący ciągi z 3 zerami po sobie.
 
 Podać ```DAS``` który akjceptuję ciąg ```011```.
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Image 3.jpg">
+### Rozwiązanie:
+
+<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Zadanie 4.jpg">
 
 |            |     $0$    |     $1$    |
 | :--------: | :--------: | :--------: |
@@ -62,29 +70,33 @@ Podać ```DAS``` który akjceptuję ciąg ```011```.
 
 Podać ```DAS``` który akjceptuję ciąg w którzym przed-przed ostatnim symbolem jest ```1``` (```1**```).
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Image 4.jpg">
+### Rozwiązanie:
 
-|            |     $0$    |     $1$    |
-| :--------: | :--------: | :--------: |
-|    $q_0$   |    $q_0$   |    $q_1$   |
-|    $q_1$   |    $q_2$   |    $q_2$   |
-|    $q_2$   |    $q_3$   |    $q_3$   |
-|   $^*q_3$  |    $q_0$   |    $q_1$   |
+<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Zadanie 5.jpg">
 
-|            |     $0$    |     $1$    |
-| :--------: | :--------: | :--------: |
-| $q0$       | $q0$       | $q1$       |
-| $q1$       | $q10$      | $q11$      |
-| $q11$      | $q110$     | $q111$     |
-| $^*q111$   | $q110$     | $q111$     |
-| $q110$     | $q10$      | $q101$     |
-| $^*q100$   | $q0$       | $q1$       |
-| $^*q101$   | $q10$      | $q11$      |
-| $q10$      | $q110$     | $q101$     |
+|              |      $0$     |      $1$     |
+| :----------: | :----------: | :----------: |
+|    $q_{0}$   |    $q_{0}$   |    $q_{1}$   |
+|    $q_{1}$   |    $q_{2}$   |    $q_{2}$   |
+|    $q_{2}$   |    $q_{3}$   |    $q_{3}$   |
+|   $^*q_{3}$  |    $q_{0}$   |    $q_{1}$   |
+
+|               |       $0$     |       $1$     |
+| :-----------: | :-----------: | :-----------: |
+| $q_{0}$       | $q_{0}$       | $q_{1}$       |
+| $q_{1}$       | $q_{10}$      | $q_{11}$      |
+| $q_{11}$      | $q_{110}$     | $q_{111}$     |
+| $^*q_{111}$   | $q_{110}$     | $q_{111}$     |
+| $q_{110}$     | $q_{10}$      | $q_{101}$     |
+| $^*q_{100}$   | $q_{0}$       | $q_{1}$       |
+| $^*q_{101}$   | $q_{10}$      | $q_{11}$      |
+| $q_{10}$      | $q_{110}$     | $q_{101}$     |
 
 ### Zadanie 6
 
 Zamiana ```NAS``` w ```DAS```.
+
+### Rozwiązanie:
 
 |            |     $0$    |     $1$     |
 | :--------: | :--------: | :---------: |

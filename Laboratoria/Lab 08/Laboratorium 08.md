@@ -22,6 +22,8 @@
 
 Rozwiąż GBK.
 
+### Rozwiązanie:
+
 { $0^n$, $n>=1$ }, &nbsp;&nbsp;&nbsp; $S$ → 01
 
 $T$ = { $0$, $1$ }, &nbsp;&nbsp;&nbsp; $S$ → 0S1
@@ -134,6 +136,8 @@ S → A1B → 00A1B → 001B → 0010B → 00101B → 001001
 ### Zadanie 7
 
 Rozwiąż GBK.
+
+### Rozwiązanie:
 
 $B$ → $BB$ → $(B)$ → ε
 

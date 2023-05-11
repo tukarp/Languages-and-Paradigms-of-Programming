@@ -14,6 +14,6 @@ test 3, 5, 7, 11  # <-- Zła liczba argumentów!
 def attempt(a = 1, b = 3, * c)
   # Wyświetl wartości zmiennych a oraz b
   puts "#{a}, #{b}"
-  # Wyświetl 
+  # Wyświetl wartość c
   c.each {|x| print "#{x}, "}
 end

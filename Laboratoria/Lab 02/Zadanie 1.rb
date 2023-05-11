@@ -18,3 +18,9 @@ def multiplication3(a, b)
   # Zwróć wynik mnożenia a i b
   a * b
 end
+
+# Main
+# Przetestowanie działania funkcji mnożenia
+puts("multiplication1(a, b): #{multiplication1(1, 5)}") # Pierwsza funkcja mnożąca
+puts("multiplication2(a, b): #{multiplication2(2, 5)}") # Druga funkcja mnożąca
+puts("multiplication3(a, b): #{multiplication3(3, 5)}") # Trzecia funkcja mnożąca

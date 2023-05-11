@@ -54,7 +54,10 @@ def fizz_buzz(min, max)
   end
 end
 
-# main
-min = 1
-max = 100
+# Main
+# Zainicjalizowanie zmiennych
+min = 1   # Minimalna wartość
+max = 100 # Maksymalna wartość
+
+# Użycie funkcji fizz_buzz() z argumentami min oraz max
 fizz_buzz(min, max)

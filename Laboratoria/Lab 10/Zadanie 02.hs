@@ -5,7 +5,7 @@
 -- Dodawanie list liczb
 [1, 2, 3] ++ [3, 4, 1]
 
--- Dodawanie wyrazów
+-- Dodawanie napisów
 "Hello" ++ " " ++ "world!"
 
 -- Dodawanie list liter
@@ -13,7 +13,7 @@
 
 -- Rozszerzanie list o element/y
 
--- Dodanie litery do wyrazu
+-- Dodanie litery do napisu
 'T' : "o jest kotek"
 
 -- Zamiana liczb na listę liczb

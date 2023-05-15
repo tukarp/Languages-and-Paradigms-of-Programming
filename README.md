@@ -4,25 +4,25 @@
 
 ### Laboratoria
 
-- [Laboratorium 01 - Paradygmaty](#laboratorium-1)
-- [Laboratorium 02 - Ruby](#laboratorium-2)
-- [Laboratorium 03 - Ruby](#laboratorium-3)
-- [Laboratorium 04 - Kolokwium z Języka Ruby](#laboratorium-4)
-- [Laboratorium 05 - Automaty](#laboratorium-5)
-- [Laboratorium 06 - Automaty](#laboratorium-6)
-- [Laboratorium 07 - Lex i Yacc](#laboratorium-7)
-- [Laboratorium 08 - Gramatyki, AZS](#laboratorium-8)
-- [Laboratorium 09 - Dane i Zmienne](#laboratorium-9)
-- [Laboratorium 10 - Haskell](#laboratorium-10)
-- [Laboratorium 11 - Haskell](#laboratorium-11)
-- [Laboratorium 12 - Kolokwium z Języka Haskell](#laboratorium-12)
-- [Laboratorium 13 - Prolog](#laboratorium-13)
-- [Laboratorium 14 - Prolog](#laboratorium-14)
-- [Laboratorium 15 - Kolokwium z Języka Prolog](#laboratorium-15)
+- [Laboratorium 01 - Paradygmaty](#laboratorium-01---paradygmaty)
+- [Laboratorium 02 - Ruby](#laboratorium-02---ruby)
+- [Laboratorium 03 - Ruby](#laboratorium-03---ruby)
+- [Laboratorium 04 - Kolokwium z Języka Ruby](#laboratorium-04---kolokwium-z-języka-ruby)
+- [Laboratorium 05 - Automaty](#laboratorium-05---automaty)
+- [Laboratorium 06 - Automaty](#laboratorium-06---automaty)
+- [Laboratorium 07 - Lex i Yacc](#laboratorium-07---lex-i-yacc)
+- [Laboratorium 08 - Gramatyki, AZS](#laboratorium-08---gramatyki,-azs)
+- [Laboratorium 09 - Dane i Zmienne](#laboratorium-09---dane-i-zmienne)
+- [Laboratorium 10 - Haskell](#laboratorium-10---haskell)
+- [Laboratorium 11 - Haskell](#laboratorium-11---haskell)
+- [Laboratorium 12 - Kolokwium z Języka Haskell](#laboratorium-12---kolokwium-z-języka-haskell)
+- [Laboratorium 13 - Prolog](#laboratorium-13---prolog)
+- [Laboratorium 14 - Prolog](#laboratorium-14---prolog)
+- [Laboratorium 15 - Kolokwium z Języka Prolog](#laboratorium-15---kolokwium-z-języka-prolog)
 
 # Treści zadań
 
-## Laboratorium 1
+## Laboratorium 01 - Paradygmaty
 
 ### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2001)
 
@@ -56,7 +56,7 @@ Napisz program rozwiązujący problem logiczny w języku ```Prolog```.
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2001/Zadanie%205.pl)
 
-## Laboratorium 2
+## Laboratorium 02 - Ruby
 
 ### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2002)
 
@@ -96,7 +96,7 @@ Napisz program korzystający z tablic asocjacyjnych.
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2002/Zadanie%206.rb)
 
-## Laboratorium 3
+## Laboratorium 03 - Ruby
 
 ### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2003)
 
@@ -146,7 +146,7 @@ Zaimplementuj drzewo genealogiczne po męskiej linii z możliwością znalezieni
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2003/Zadanie%207.rb)
 
-### Laboratorium 4
+### Laboratorium 04 - Kolokwium z Języka Ruby
 
 ### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2004)
 
@@ -162,7 +162,9 @@ Rubym, który wyznaczałby chwilę zakończenia zadanego działania.
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2004/Kolokwium.rb)
 
-### Laboratorium 5
+### Laboratorium 05 - Automaty
+
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2005)
 
 ### Zadanie 1
 
@@ -200,9 +202,9 @@ Zamiana ```NAS``` w ```DAS```.
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Laboratorium%2005.md)
 
-### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2005)
+### Laboratorium 06 - Automaty
 
-### Laboratorium 6
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2006)
 
 ### Zadanie 1
 
@@ -290,9 +292,7 @@ Rozwiąż.
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Laboratorium%2006.md)
 
-### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Laboratorium%2006.md)
-
-### Laboratorium 7
+### Laboratorium 07 - Lex i Yacc
 
 ### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/tree/main/Laboratoria/Lab%2007)
 
@@ -366,7 +366,9 @@ Napisz program symulujący kalkulator działający w notacji polskiej.
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2007/%C4%86wiczenie%203.yacc)
 
-### Laboratorium 8
+### Laboratorium 08 - Gramatyki, AZS
+
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008)
 
 ### Zadanie 1
 
@@ -422,18 +424,68 @@ Rozwiąż wyprowadzenie ```automatu ze stosem```.
 
 ### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008/Laboratorium%2008.md)
 
-### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008/Laboratorium%2008.md)
+### Laboratorium 09 - Dane i Zmienne
 
-### Laboratorium 9
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2009)
 
-### Laboratorium 10
+### Laboratorium 10 - Haskell
 
-### Laboratorium 11
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2010)
 
-### Laboratorium 12
+### Zadanie 0
 
-### Laboratorium 13
+Przetestuj działania funkcji mnożenia i dzielenia w sposób infiksowy i prefiksowy.
 
-### Laboratorium 14
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2010/Zadanie%2000.hs)
 
-### Laboratorium 15
+### Zadanie 1
+
+Przetestuj ładowanie funkcji z pliku ```utils.hs``` i używania jej w ```GHCI```.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2010/Zadanie%2001.hs)
+
+### Zadanie 2
+
+Przetestuj funkcjonalności:
+- ```list```,
+- ```napisów```,
+- ```zbiorów```,
+- ```pętl```.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2010/Zadanie%2002.hs)
+
+### Zadanie 3
+
+Przetestuj funkcjonalności:
+- ```krotek```,
+- ```zbiorów```,
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2010/Zadanie%2003.hs)
+
+### Zadanie 4
+
+Przetestuj funkcjonalności:
+- ```instrukcji warunkowych```,
+- ```funkcji signum```.
+
+### [Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2010/Zadanie%2004.hs)
+
+### Laboratorium 11 - Haskell
+
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2011) 
+
+### Laboratorium 12 - Kolokwium z Języka Haskell
+
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2012)
+
+### Laboratorium 13 - Prolog
+
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2013)
+
+### Laboratorium 14 - Prolog
+
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2014)
+
+### Laboratorium 15 - Kolokwium z Języka Prolog
+
+### [Rozwiązania](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2015)

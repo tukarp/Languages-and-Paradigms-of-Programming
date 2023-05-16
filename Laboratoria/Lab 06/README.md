@@ -10,7 +10,7 @@ Zaprojektuj ```automat``` akceptujący:
 - $abd$,
 - $aacd$.
 
-### Rozwiązanie:
+### Rozwiązanie
 
 <img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 06/Zadanie 1.png"/>
 
@@ -22,7 +22,7 @@ Zaprojektuj ```automat``` akceptujący:
 - $101$,
 - $011$.
 
-### Rozwiązanie:
+### Rozwiązanie
 
 <img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 06/Zadanie 2.png"/>
 
@@ -34,7 +34,7 @@ Zaprojektuj ```automat``` akceptujący:
 - $bc$,
 - $ca$.
 
-### Rozwiązanie:
+### Rozwiązanie
 
 <img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 06/Zadanie 3.png"/>
 
@@ -48,7 +48,7 @@ Na podstawie tabeli przejść po kilka możliwych ścieżkek różnej długości
 | $p$        | { $p$ }     | { $q$ } | { $r$ }     | $\emptyset$ |
 | $^*r$      | { $q$ }     | { $r$ } | $\emptyset$ | { $p$ }     |
 
-### Rozwiązanie:
+### Rozwiązanie
 
 $e$ &nbsp; $domknięcie(p)$ = { $p$ }
 
@@ -73,7 +73,7 @@ Na podstawie tabeli wypisz możliwe ścieżki.
 | $p$        | $\emptyset$   | { $p$ }     | { $r$ }     | { $p$ , $q$ } |
 | $^*r$      | $\emptyset$   | $\emptyset$ | $\emptyset$ | $\emptyset$   |
 
-### Rozwiązanie:
+### Rozwiązanie
 
 $e$ &nbsp; $domknięcie(p)$ = { $p$ , $q$, $r$ }
 
@@ -101,7 +101,7 @@ $Wzór$:
 
 $R_{ij}^{(0)} = R_{ij}^{(n)} = R_{n+1}^{(n)}(R...)$
 
-### Rozwiązanie:
+### Rozwiązanie
 
 $R_{11}^{(0)} = 1$
 
@@ -176,6 +176,8 @@ Zaprojektuj ```automat``` akceptujący polskie numery telefonów:
 Rozwiąż.
 
 $(R + S)^* = R^* + S^* $
+
+### Rozwiązanie
 
 $(R + S)^{*} = ε + (R + S)  + (R + S) (R + S) + (R + S) (R + S) (R + S) + ... $
 

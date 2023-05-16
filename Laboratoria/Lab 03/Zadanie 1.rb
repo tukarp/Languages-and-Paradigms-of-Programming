@@ -10,15 +10,20 @@ def fizz_buzz(min, max)
 
   i = min
   begin
+    # Sprawdzenie podzielności przez 3 i 5
     if((i % 3 == 0) && (i % 5 == 0))
       puts("Fizz Buzz")
+    # Sprawdzenie podzielności przez 3
     elsif(i % 3 == 0)
       puts("Fizz")
+    # Sprawdzenie podzielności przez 5
     elsif(i % 5 == 0)
       puts("Buzz")
+    # W innym wypadku
     else
       puts("#{i}")
     end
+    # Inkrementacja licznika
     i += 1
   end while i < max / 3
 
@@ -30,15 +35,20 @@ def fizz_buzz(min, max)
   # Działający od (max / 3) do ((2 * max) / 3)
 
   while i < 2 * max / 3
+    # Sprawdzenie podzielności przez 3 i 5
     if((i % 3 == 0) && (i % 5 == 0))
       puts("Fizz Buzz")
+    # Sprawdzenie podzielności przez 3
     elsif(i % 3 == 0)
       puts("Fizz")
+    # Sprawdzenie podzielności przez 5
     elsif(i % 5 == 0)
       puts("Buzz")
+    # W innym wypadku
     else
       puts("#{i}")
     end
+    # Inkrementacja licznika
     i += 1
   end
 
@@ -50,15 +60,20 @@ def fizz_buzz(min, max)
   # Działający od ((2 * max) / 3) do max
 
   until i > max
+    # Sprawdzenie podzielności przez 3 i 5
     if((i % 3 == 0) && (i % 5 == 0))
       puts("Fizz Buzz")
+    # Sprawdzenie podzielności przez 3
     elsif(i % 3 == 0)
       puts("Fizz")
+    # Sprawdzenie podzielności przez 5
     elsif(i % 5 == 0)
       puts("Buzz")
+    # W innym wypadku
     else
       puts("#{i}")
     end
+    # Inkrementacja licznika
     i += 1
   end
 end

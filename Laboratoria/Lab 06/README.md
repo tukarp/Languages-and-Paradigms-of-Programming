@@ -1,6 +1,6 @@
-# Laboratorium 06
+# Języki i Paradygmaty Programowania
 
-## Automaty
+## Laboratorium 06 - Automaty
 
 ### Zadanie 1
 

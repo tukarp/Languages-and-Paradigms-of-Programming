@@ -1,6 +1,6 @@
-# Laboratorium 08
+# Języki i Paradygmaty Programowania
 
-## Gramatyki, AZS
+## Laboratorium 08 - Gramatyki, AZS
 
 ### Notatki
 

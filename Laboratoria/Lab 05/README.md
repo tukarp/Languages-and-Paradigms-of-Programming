@@ -8,7 +8,7 @@ Alfabet 2 symboli - ```A```, ```B```.
 
 Przyjmijmy start w ```LLLC```
 
-### Rozwiązanie:
+### Rozwiązanie
 
 |            |  ```A```   |  ```B```   |
 | :--------: | :--------: | :--------: |
@@ -26,7 +26,7 @@ Przyjmijmy start w ```LLLC```
 
 Podać ```DAS``` który akceptuję ciągi kończące się na 2 zerach.
 
-### Rozwiązanie:
+### Rozwiązanie
 
 <img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Zadanie 2.jpg">
 
@@ -40,7 +40,7 @@ Podać ```DAS``` który akceptuję ciągi kończące się na 2 zerach.
 
 Podać ```DAS``` który akceptujący ciągi z 3 zerami po sobie.
 
-### Rozwiązanie:
+### Rozwiązanie
 
 <img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Zadanie 3.jpg">
 
@@ -55,7 +55,7 @@ Podać ```DAS``` który akceptujący ciągi z 3 zerami po sobie.
 
 Podać ```DAS``` który akjceptuję ciąg ```011```.
 
-### Rozwiązanie:
+### Rozwiązanie
 
 <img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Zadanie 4.jpg">
 
@@ -70,7 +70,7 @@ Podać ```DAS``` który akjceptuję ciąg ```011```.
 
 Podać ```DAS``` który akjceptuję ciąg w którzym przed-przed ostatnim symbolem jest ```1``` (```1**```).
 
-### Rozwiązanie:
+### Rozwiązanie
 
 <img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Zadanie 5.jpg">
 
@@ -96,7 +96,7 @@ Podać ```DAS``` który akjceptuję ciąg w którzym przed-przed ostatnim symbol
 
 Zamiana ```NAS``` w ```DAS```.
 
-### Rozwiązanie:
+### Rozwiązanie
 
 |            |      $0$     |      $1$      |
 | :--------: | :----------: | :-----------: |

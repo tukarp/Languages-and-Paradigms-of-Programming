@@ -22,7 +22,7 @@
 
 Rozwiąż GBK.
 
-### Rozwiązanie:
+### Rozwiązanie
 
 { $0^n$, $n>=1$ }, &nbsp;&nbsp;&nbsp; $S$ → 01
 
@@ -40,15 +40,15 @@ $A$ = 0A | ε
 
 $B$ = 0B | 1B | ε
 
-### Przykład:
+### Przykład
 
 $00101$
 
-### Rozwiązanie od lewej:
+### Rozwiązanie od lewej
 
 S → A1B → 0A1B → 00A1B → 001B → 0010B → 00101
 
-### Rozwiązanie od prawej:
+### Rozwiązanie od prawej
 
 S → A1B → A10B → A101B → A101 → 0A101 → 00A101 → 00101
 
@@ -62,15 +62,15 @@ $A$ = 0A | ε
 
 $B$ = 0B | 1B | ε
 
-### Przykład:
+### Przykład
 
 $1001$
 
-### Rozwiązanie od lewej:
+### Rozwiązanie od lewej
 
 S → A1B → 1B → 10B → 100B → 1001B → 1001
 
-### Rozwiązanie od prawej:
+### Rozwiązanie od prawej
 
 S → A1B → A10B → A100B → A1001B → A1001 → 1001 → 1001
 
@@ -84,11 +84,11 @@ $A$ = 0A | ε
 
 $B$ = 0B | 1B | ε
 
-### Przykład:
+### Przykład
 
 $0^* 1(0 + 1)^*$
 
-### Rozwiązanie:
+### Rozwiązanie
 
 $(0 + 1)^* = (0 + 1) + (0 + 1) + (0 + 1) + ... + (0 + 1)$
 
@@ -104,11 +104,11 @@ Rozwiąż wyprowadzenie automatu.
 
 $S$ → $aS$ | $Sb$ | $a$ | $b$
 
-### Rozwiązanie:
+### Rozwiązanie
 
 $S$ → $Sb$ → $!!!$
 
-Odpowiedź:
+Odpowiedź
 
 W tym przykładzie nie można dopisać niczego z prawej od b.
 
@@ -118,7 +118,7 @@ Rozwiąż drzewo wyprowadzeń.
 
 S → A1B → 00A1B → 001B → 0010B → 00101B → 001001
 
-### Rozwiązanie:
+### Rozwiązanie
 
 ```
      S
@@ -137,7 +137,7 @@ S → A1B → 00A1B → 001B → 0010B → 00101B → 001001
 
 Rozwiąż GBK.
 
-### Rozwiązanie:
+### Rozwiązanie
 
 $B$ → $BB$ → $(B)$ → ε
 
@@ -163,13 +163,13 @@ $δ$($p$, $1$, $X$)  = {($p$, $XX$)}
 
 $δ$($p$, $1$, $Z_0$) = {($p$, $ε$)}
 
-### Przykład:
+### Przykład
 
 ($q$, $w$, $Z_0$)
 
 $w$ = $01$
 
-### Rozwiązanie:
+### Rozwiązanie
 
 ```
    0,Z0 / XZ0
@@ -205,13 +205,13 @@ $δ$($p$, $1$, $X$)  = {($p$, $XX$)}
 
 $δ$($p$, $1$, $Z_0$) = {($p$, $ε$)}
 
-### Przykład:
+### Przykład
 
 ($q$, $w$, $Z_0$)
 
 $w$ = $0011$
 
-### Rozwiązanie:
+### Rozwiązanie
 
 ```
    0,Z0 / XZ0
@@ -225,6 +225,18 @@ q ------------> q ------------> q
                                 p -------------> p
 ```
 
-### Odpowiedz: 
+### Odpowiedz
 
 Nie należy do języka.
+
+### Zadanie 10
+
+Rozwiąż wyprowadzenie automatu ze stosem.
+
+{ $0^n$ , $n$ >= $1$}
+
+$δ$() = {}
+
+### Rozwiązanie
+
+<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008/Zadanie%2010.png"/>

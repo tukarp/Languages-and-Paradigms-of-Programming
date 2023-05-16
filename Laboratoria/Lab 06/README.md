@@ -56,7 +56,7 @@ $e$ &nbsp; $domknięcie(q)$ = { $q$ , $p$ }
 
 $e$ &nbsp; $domknięcie(r)$ = { $r$ , $q$ , $p$ }
 
-Ścieżki:
+Ścieżki
 
 - Jednoznakowe: 
     - $c$,
@@ -81,7 +81,7 @@ $e$ &nbsp; $domknięcie(q)$ = { $q$ }
 
 $e$ &nbsp; $domknięcie(r)$ = { $r$ }
 
-Ścieżki:
+Ścieżki
 
 - $\emptyset$, $a$, $b$, $c$
 
@@ -97,7 +97,7 @@ Rozwiąż.
 | $q_{2}$   | $q_{3}$ | $q_{1}$ |
 | $^*q_{3}$ | $q_{3}$ | $q_{2}$ |
 
-$Wzór$:
+$Wzór$
 
 $R_{ij}^{(0)} = R_{ij}^{(n)} = R_{n+1}^{(n)}(R...)$
 

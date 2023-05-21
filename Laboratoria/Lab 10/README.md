@@ -2,15 +2,15 @@
 
 ### Laboratorium 10 - Haskell
 
-### Zadanie 0
-
-Przetestuj działania funkcji mnożenia i dzielenia w sposób infiksowy i prefiksowy.
-
 ### Zadanie 1
 
-Przetestuj ładowanie funkcji z pliku ```utils.hs``` i używania jej w ```GHCI```.
+Napisz program testujący działanie funkcji mnożenia i dzielenia w sposób infiksowy i prefiksowy.
 
 ### Zadanie 2
+
+Napisz program testujący ładowanie funkcji z pliku ```utils.hs``` i używania jej w ```GHCI```.
+
+### Zadanie 23
 
 Przetestuj funkcjonalności:
 - ```list```,
@@ -18,14 +18,14 @@ Przetestuj funkcjonalności:
 - ```zbiorów```,
 - ```pętl```.
 
-### Zadanie 3
+### Zadanie 4
 
-Przetestuj funkcjonalności:
+Napisz program testujący funkcjonalności:
 - ```krotek```,
 - ```zbiorów```,
 
-### Zadanie 4
+### Zadanie 5
 
-Przetestuj funkcjonalności:
+Napisz program testujący funkcjonalności:
 - ```instrukcji warunkowych```,
 - ```funkcji signum```.

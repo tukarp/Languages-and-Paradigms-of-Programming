@@ -12,7 +12,7 @@ Zaprojektuj ```automat``` akceptujący:
 
 ### Rozwiązanie
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 06/Zadanie 1.png"/>
+![Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Zadanie%2001.png)
 
 ### Zadanie 2
 
@@ -24,7 +24,7 @@ Zaprojektuj ```automat``` akceptujący:
 
 ### Rozwiązanie
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 06/Zadanie 2.png"/>
+![Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Zadanie%2002.png)
 
 ### Zadanie 3
 
@@ -36,7 +36,7 @@ Zaprojektuj ```automat``` akceptujący:
 
 ### Rozwiązanie
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 06/Zadanie 3.png"/>
+![Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Zadanie%2003.png)
 
 ### Zadanie 4
 
@@ -85,7 +85,7 @@ $e$ &nbsp; $domknięcie(r)$ = { $r$ }
 
 - $\emptyset$, $a$, $b$, $c$
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 06/Zadanie 5.png"/>
+![Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Zadanie%2005.png)
 
 ### Zadanie 6
 
@@ -139,7 +139,7 @@ Zaprojektuj ```automat``` akceptujący:
 
 ### Rozwiązanie
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 06/Zadanie 7.png"/>
+![Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Zadanie%2007.png)
 
 ### Zadanie 8
 
@@ -149,7 +149,7 @@ Zaprojektuj ```automat``` akceptujący:
 
 ### Rozwiązanie
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 06/Zadanie 8.png"/>
+![Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Zadanie%2008.png)
 
 ### Zadanie 9
 
@@ -159,7 +159,7 @@ Zaprojektuj ```automat``` akceptujący:
 
 ### Rozwiązanie
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 06/Zadanie 9.png"/>
+![Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Zadanie%2009.png)
 
 ### Zadanie 10
 
@@ -169,7 +169,7 @@ Zaprojektuj ```automat``` akceptujący polskie numery telefonów:
 
 ### Rozwiązanie
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 06/Zadanie 10.png"/>
+![Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2006/Zadanie%2010.png)
 
 ### Zadanie 11
 

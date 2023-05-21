@@ -28,7 +28,7 @@ Podać ```DAS``` który akceptuję ciągi kończące się na 2 zerach.
 
 ### Rozwiązanie
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Zadanie 2.jpg">
+![Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Zadanie%2002.jpg)
 
 |            |     $0$    |     $1$    |
 | :--------: | :--------: | :--------: |
@@ -42,7 +42,7 @@ Podać ```DAS``` który akceptujący ciągi z 3 zerami po sobie.
 
 ### Rozwiązanie
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Zadanie 3.jpg">
+![Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Zadanie%2003.jpg)
 
 |            |     $0$    |     $1$    |
 | :--------: | :--------: | :--------: |
@@ -57,7 +57,7 @@ Podać ```DAS``` który akjceptuję ciąg ```011```.
 
 ### Rozwiązanie
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Zadanie 4.jpg">
+![Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Zadanie%2004.jpg)
 
 |            |     $0$    |     $1$    |
 | :--------: | :--------: | :--------: |
@@ -72,7 +72,7 @@ Podać ```DAS``` który akjceptuję ciąg w którzym przed-przed ostatnim symbol
 
 ### Rozwiązanie
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab 05/Zadanie 5.jpg">
+![Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2005/Zadanie%2005.jpg)
 
 |              |      $0$     |      $1$     |
 | :----------: | :----------: | :----------: |

@@ -239,4 +239,4 @@ $δ$() = {}
 
 ### Rozwiązanie
 
-<img src="https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008/Zadanie%2010.png"/>
+![Rozwiązanie](https://github.com/tukarp/Languages-and-Paradigms-of-Programming/blob/main/Laboratoria/Lab%2008/Zadanie%2010.png)

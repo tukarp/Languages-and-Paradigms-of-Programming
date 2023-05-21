@@ -1,43 +1,133 @@
 -- Skrypty napisane w Glasgow Haskell Compiler GHC (GHCI)
 
--- Krotki (tuples)
-tuple1 = (1, 2)
-tuple2 = (3, 4)
+-- Listy w jezyku Haskell
 
--- Wyświetlenie pierwszego elementu z pary
-fst tuple1
+-- Dodawanie list liczb
+[1, 2, 3] ++ [3, 4, 1]
 
--- Wyświetlenie drugiego elementu z pary
-snd tuple2
+-- Dodawanie napisów
+"Hello" ++ " " ++ "world!"
 
--- Wyświetlenie scalonych krotek z uciętym nadmiarowymi elementami
-zip tuple1 tuple2
+-- Dodawanie list liter
+['H','a','s'] ++ ['k','e','l','l']
 
--- Wyświetlenie scalonych krotek z uciętym nadmiarowymi elementami
-zip [1..] ["pies", "kot"]
+-- Rozszerzanie list o element/y
 
--- Definicje zbiorów
+-- Dodanie litery do napisu
+'T' : "o jest kotek"
 
--- Przykład zbioru - liczby od 1 do 10
-[x * 2 | x <- [1..10]]
+-- Zamiana liczb na listę liczb
+1:2:3:[]
 
--- Przykład zbioru - liczby od 1 do 10, gdzie x * 2 jest większe równe 12
-[x * 2 | x <- [1..10], x * 2 >= 12]
+-- Deklaracje list
 
--- Przykład zbioru - liczby od 50 do 100, gdzie x reszta z dzielenia przez 7 wynosi 3
-[x | x <- [50..100], x `mod` 7 == 3]
+-- Deklaracja pustej listy
+[]
 
--- Przykład zbioru - wszystkie możliwe połączenia dwóch list
-[x++ " " ++y | x <- ["czerwony", "zielony", "czarny"], y <- ["pomidor", "trawa", "niebo"]]
+-- Deklaracja listy zawierającą pustą listę
+[[]]
 
--- Przykład zbioru - wybranie dużych liter z napisu
-[x | x <- "AbcDefGhi", x `elem` ['A'..'Z']]
+-- Deklaracja listy zawierającą trzy puste listy
+[[], [], []]
 
--- Przyklad zbioru - trójkąty o bokach a, b, c nie dłuższych niż 10
-triangles = [(a, b, c) | a <- [1..10], b <- [1..10], c <- [1..10], a + b > c, b + c > a, c + a > b]
+-- Przykłady generacji zbiorów liczb - przedział
+set = [1..10]
+print set
 
--- Przyklad zbioru - trójkąty prostokątne o bokach a, b, c nie dłuższych niż 10
-rectangular_triangle = [(a, b, c) | (a, b, c) <- triangles, a ^ 2 + b ^ 2 == c ^ 2]
+-- Przykłady generacji zbiorów liter - przedział
+set = ['a'..'z']
+print set
 
--- Przyklad zbioru - trójkąty równoboczne o bokach a, b, c nie dłuższych niż 10
-equilateral_triangle = [(a, b, c) | (a, b, c) <- triangles, a == b, b == c]
+-- Przykłady generacji zbiorów liczb - przedział z omijaniem wartości
+set = [2, 4..20]
+print set
+
+-- Przykład pobrania elementu z listy
+"Haskell!" !! 3
+
+-- Podstawowe operacje na listach
+
+-- Deklaracja listy
+list = [1, 2, 3, 4, 5]
+print list
+
+-- Wyświetlenie głowy listy
+head list
+
+-- Wyświetlenie ogona listy
+tail list
+
+-- Wyświetlenie ostatniego elementu listy
+last list
+
+-- Wyświetlenie listy bez ostatniego elementu
+init list
+
+-- Wyświetlenie rozmiaru listy
+length list
+
+-- Wyświetlenie czy list jest pusta
+null list
+
+-- Wyświetlenie odwróconej listy
+reverse list
+
+-- Wyświetlenie pierwszych dwóch elementów listy
+take 2 list
+
+-- Wyświetlenie pierwszych dziesięciu elementów listy
+take 10 list
+
+-- Wyświetlenie żadnego elementów listy
+take 0 list
+
+-- Wyświetlenie listy bez pierwszych dwóch elementów
+drop 2 list
+
+-- Wyświetlenie listy bez pierwszych zero elementów
+drop 0 list
+
+-- Wyświetlenie listy bez pierwszych dziesięciu elementów
+drop 10 list
+
+-- Wyświetlenie maksymalnej wartości w liście
+maximum list
+
+-- Wyświetlenie minimalnej wartości w liście
+minimum list
+
+-- Wyświetlenie sumy wartości w liście
+sum list
+
+-- Wyświetlenie iloczynu wartości w liście
+product list
+
+-- Sprawdzenie czy 2 jest elementem listy
+2 `elem` list
+
+-- Sprawdzenie czy 10 jest elementem listy
+10 `elem` list
+
+-- Wyświetlenie w pętli wartości listy
+cycle list
+
+-- Wyświetlenie w pętli dziesięc razy wartości listy
+take 10 (cycle list)
+
+-- Wyświetlenie w pętli wartości listy
+repeat list
+
+-- Wyświetlenie 20 razy napisu "Haskell"
+replicate 20 "Haskell"
+-- lub
+take 20 (repeat "Haskell")
+
+-- Więcej operacji na listach znajduę się w predefiniowanym module
+
+-- Importowanie modułu List
+import Data.List
+
+-- Przykład funkcji z modułu
+
+-- Wyświetlenie list z dodaną 3 pomiędzy wartości listy
+intersperse 3 list

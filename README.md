@@ -1,6 +1,6 @@
 # Języki i Paradygmaty Programowania
 
-## Spis Treści
+## Spis treści
 
 ### Laboratoria
 

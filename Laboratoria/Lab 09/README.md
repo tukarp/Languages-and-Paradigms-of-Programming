@@ -95,17 +95,15 @@ void function_one() {
      y = y + 2;
 
      print("x = " + x + ", y = " + y);
-     }
-
+}
 void function_two() {
      int x = 1;
      x = x + 2;
      y = y + 1;
 
      print("x = " + x + ", y = " + y);
-     function_one()
-     }
-
+     function_one();
+}
 void main() {
      function_one();
      function_two();

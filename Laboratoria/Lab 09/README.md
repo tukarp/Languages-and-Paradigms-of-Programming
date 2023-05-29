@@ -7,10 +7,10 @@
 ### Rodzaje typów danych i ich alokacji
 
 ```
-Dane ───> Statyczne 
-      └─> Dynamiczne ───> Stos
-                      └─> Sterta ───> Alokacja Jawna
-                                  └─> Alokacja Niejawna
+Dane ───► Statyczne 
+      └─► Dynamiczne ───► Stos
+                      └─► Sterta ───► Alokacja Jawna
+                                  └─► Alokacja Niejawna
 ```
 
 ### Zadanie 1
@@ -103,7 +103,8 @@ void function_two() {
 
      print("x = " + x + ", y = " + y);
      function_one();
-}
+}
+
 void main() {
      function_one();
      function_two();

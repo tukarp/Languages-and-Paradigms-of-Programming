@@ -11,11 +11,11 @@ programy (parser generator).
 
 ### Kompilacja
 
-```lex Zadanie.lex```
+- ```lex program.lex``` - skompilowanie pliku lex,
 
-```cc lex.yy.c -o Zadanie.x -lfl```
+- ```cc lex.yy.c -o program.x -lfl``` - skompilowanie pliku yacc,
 
-```./Zadanie.x```
+- ```./program.x``` - wykonanie skompilowanego pliku wykonywalnego.
 
 ### Zadanie 1
 

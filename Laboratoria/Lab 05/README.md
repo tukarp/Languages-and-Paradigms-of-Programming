@@ -6,7 +6,7 @@
 
 Alfabet 2 symboli - ```A```, ```B```.
 
-Przyjmijmy start w ```LLLC```
+Przyjmij start w ```LLLC```
 
 ### Rozwiązanie
 
@@ -24,7 +24,7 @@ Przyjmijmy start w ```LLLC```
 
 ### Zadanie 2
 
-Podać ```DAS``` który akceptuję ciągi kończące się na 2 zerach.
+Podaj ```DAS``` który akceptuję ciągi kończące się na 2 zerach.
 
 ### Rozwiązanie
 
@@ -38,7 +38,7 @@ Podać ```DAS``` który akceptuję ciągi kończące się na 2 zerach.
 
 ### Zadanie 3
 
-Podać ```DAS``` który akceptujący ciągi z 3 zerami po sobie.
+Podaj ```DAS``` który akceptuję ciągi z 3 zerami po sobie.
 
 ### Rozwiązanie
 
@@ -53,7 +53,7 @@ Podać ```DAS``` który akceptujący ciągi z 3 zerami po sobie.
 
 ### Zadanie 4
 
-Podać ```DAS``` który akjceptuję ciąg ```011```.
+Podaj ```DAS``` który akceptuję ciąg ```011```.
 
 ### Rozwiązanie
 
@@ -68,7 +68,7 @@ Podać ```DAS``` który akjceptuję ciąg ```011```.
 
 ### Zadanie 5
 
-Podać ```DAS``` który akjceptuję ciąg w którzym przed-przed ostatnim symbolem jest ```1``` (```1**```).
+Podaj ```DAS``` który akceptuję ciąg w którym przed-przed ostatnim symbolem jest ```1``` (```1**```).
 
 ### Rozwiązanie
 
@@ -94,7 +94,7 @@ Podać ```DAS``` który akjceptuję ciąg w którzym przed-przed ostatnim symbol
 
 ### Zadanie 6
 
-Zamiana ```NAS``` w ```DAS```.
+Zamień ```NAS``` w ```DAS```.
 
 ### Rozwiązanie
 

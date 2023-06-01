@@ -20,4 +20,4 @@ member(A, [1, 2, 3]).
 append([1, 2, 3], [2, 3, 4], A).
 
 % Operacja wyboru dwóch elementów z listy i zapisania wyniku w stałej A
-select(1, [1, 2, 3], A)
+select(1, [1, 2, 3], A).

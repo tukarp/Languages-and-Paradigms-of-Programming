@@ -1,6 +1,6 @@
 # Języki i Paradygmaty Programowania
 
-### Laboratorium 10 - Haskell
+## Laboratorium 10 - Haskell
 
 ### Zadanie 1
 
